@@ -1,0 +1,1418 @@
+﻿0 HEAD
+1 SOUR RootsMagic
+2 NAME RootsMagic
+2 VERS 7.6.5.0
+2 CORP RootsMagic, Inc.
+3 ADDR PO Box 495
+4 CONT Springville, UT 84663
+4 CONT USA
+3 PHON 1-800-ROOTSMAGIC
+3 WWW www.RootsMagic.com
+1 DEST RootsMagic
+1 DATE 24 AUG 2021
+1 FILE MyTree.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Nikola /Vukotic/
+2 GIVN Nikola
+2 SURN Vukotic
+1 SEX M
+1 _UID 917F35651ABB4E2988A149877A4D08BF7DE4
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 9 MAY 2020
+2 PLAC Chicago, Illinois, USA
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Ilija /Vukotic/
+2 GIVN Ilija
+2 SURN Vukotic
+1 SEX M
+1 _UID F63F8E4A99D84A54952F21EDB2B8AE0C1293
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 24 JUL 1974
+2 PLAC Niksic, Montenegro
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Nada /Adzic/
+2 GIVN Nada
+2 SURN Adzic
+1 SEX F
+1 _UID D5F7CDA1F0CD41C6A61AB5DA55E4392EEDC1
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 24 DEC 1982
+2 PLAC Niksic, Montenegro
+1 FAMS @F1@
+1 FAMC @F4@
+0 @I4@ INDI
+1 NAME Sophia /Vukotic/
+2 GIVN Sophia
+2 SURN Vukotic
+1 SEX F
+1 _UID 0E5688D23F8F40488D2F34B3C2B757A02708
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 17 SEP 2010
+2 PLAC Orsay, France
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Constantin /Vukotic/
+2 GIVN Constantin
+2 SURN Vukotic
+1 SEX M
+1 _UID BF0DFD82585642A1A353C63343032BDB1778
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 17 MAR 2008
+2 PLAC Paris, France
+1 FAMC @F1@
+0 @I6@ INDI
+1 NAME Dragisa /Vukotic/
+2 GIVN Dragisa
+2 SURN Vukotic
+1 SEX M
+1 _UID CE8C5A5E78134A31B478E4814E1609031928
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 1 JAN 1930
+2 PLAC Praga, Montenegro
+1 DEAT
+2 DATE 2002
+2 PLAC Niksic, Montenegro
+1 FAMS @F2@
+1 FAMC @F5@
+0 @I7@ INDI
+1 NAME Milena /Perovic/
+2 GIVN Milena
+2 SURN Perovic
+1 SEX F
+1 _UID E92ED3FB73834EB69672A77FC5C71232DDF4
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 10 MAY 1943
+2 PLAC Trepca, Montenegro
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I8@ INDI
+1 NAME Nikola /Perovic/
+2 GIVN Nikola
+2 SURN Perovic
+1 SEX M
+1 _UID 656533D07E73488AA64E61643F885160C13A
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMS @F3@
+0 @I9@ INDI
+1 NAME Jelena /Radulovic/
+2 GIVN Jelena
+2 SURN Radulovic
+1 SEX F
+1 _UID 73F4927CC64840718CE9E75AD61BEAA469A9
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F3@
+0 @I10@ INDI
+1 NAME Miladin /Adzic/
+2 GIVN Miladin
+2 SURN Adzic
+1 SEX M
+1 _UID 01C36852A14A49EDB41E7992072E82295C35
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 6 AUG 1927
+2 PLAC Lisina, Montenegro
+1 DEAT
+2 DATE 8 SEP 2001
+2 PLAC Niksic, Montenegro
+1 FAMS @F4@
+1 FAMC @F7@
+0 @I11@ INDI
+1 NAME Veljko /Vukotic/
+2 GIVN Veljko
+2 SURN Vukotic
+1 SEX M
+1 _UID 7E8A2044BC06460F9BB990849EBE27EF5D49
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F5@
+1 FAMC @F6@
+0 @I12@ INDI
+1 NAME Blazo /Vukotic/
+2 GIVN Blazo
+2 SURN Vukotic
+1 SEX M
+1 _UID A277702719C64E4AA5EBBA5657F1363A7FFC
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F6@
+0 @I13@ INDI
+1 NAME Mirjana /Vukotic/
+2 GIVN Mirjana
+2 SURN Vukotic
+1 SEX F
+1 _UID 6DBE9442CFC54B3588576043EC0006028B48
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 10 JUL 1973
+2 PLAC Niksic, Montenegro
+1 FAMS @F11@
+1 FAMC @F2@
+0 @I14@ INDI
+1 NAME Bozo /Vukotic/
+2 GIVN Bozo
+2 SURN Vukotic
+1 SEX M
+1 _UID 14E1B0E484264AF8A69CC9049AF6584AB693
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F14@
+1 FAMC @F5@
+0 @I15@ INDI
+1 NAME Saleta /Vukotic/
+2 GIVN Saleta
+2 SURN Vukotic
+1 SEX M
+1 _UID 8B8908423DBE47D4BF9F76F1EF6B2A19D6F5
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F13@
+1 FAMC @F5@
+0 @I16@ INDI
+1 NAME Milica /Vukotic/
+2 GIVN Milica
+2 SURN Vukotic
+1 SEX F
+1 _UID 2A7F59773B8142869EAFCF93640E46197D64
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMC @F5@
+0 @I17@ INDI
+1 NAME Mileva /Vukotic/
+2 GIVN Mileva
+2 SURN Vukotic
+1 SEX F
+1 _UID 722B706CF69B43209CE17416D34ED6B41FF3
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMC @F5@
+0 @I18@ INDI
+1 NAME Momir /Vukotic/
+2 GIVN Momir
+2 SURN Vukotic
+1 SEX M
+1 _UID 221A9164294D4A6F8D1576B68EB8FFEC5F45
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 PLAC Praga, Montenegro
+1 FAMS @F12@
+1 FAMC @F5@
+0 @I19@ INDI
+1 NAME Ivana /Adzic/
+2 GIVN Ivana
+2 SURN Adzic
+1 SEX F
+1 _UID 1C6BC18806624CBABB38C32DA0A2FB308EDA
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 15 FEB 1984
+2 PLAC Niksic, Montenegro
+1 FAMS @F10@
+1 FAMC @F4@
+0 @I20@ INDI
+1 NAME Marija /Perunovic/
+2 GIVN Marija
+2 SURN Perunovic
+1 SEX F
+1 _UID 700BFE7B91AA4158B5E20B76351F5B3DCC0E
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 12 MAY 1939
+2 PLAC Debra, North Macedonia
+1 DEAT
+2 DATE 21 APR 2018
+2 PLAC Niksic, Montenegro
+1 FAMS @F4@
+1 FAMC @F8@
+0 @I21@ INDI
+1 NAME Maksim /Adzic/
+2 GIVN Maksim
+2 SURN Adzic
+1 SEX M
+1 _UID D9F545063AE34FB18D57D34808CF5276D491
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 1898
+2 PLAC Lisina, Montenegro
+1 DEAT
+2 DATE 1991
+2 PLAC Lisina, Montenegro
+1 FAMS @F7@
+1 FAMC @F9@
+0 @I22@ INDI
+1 NAME Djeva /Bakrac/
+2 GIVN Djeva
+2 SURN Bakrac
+1 SEX F
+1 _UID 0D4D44B2F814420D9D279FCEAC2E1F8C6157
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F7@
+0 @I23@ INDI
+1 NAME Teofana /Angelovska/
+2 GIVN Teofana
+2 SURN Angelovska
+1 SEX F
+1 _UID 923B01AB7948463A85569091D08BB69A617A
+1 CHAN
+2 DATE 19 AUG 2021
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1943
+1 BIRT
+2 PLAC Ohrid, North Macedonia
+1 FAMS @F8@
+0 @I24@ INDI
+1 NAME Bogdan /Perunovic/
+2 GIVN Bogdan
+2 SURN Perunovic
+1 SEX M
+1 _UID 49F604E994104CC882D72C592DF6C84DFAD0
+1 CHAN
+2 DATE 19 AUG 2021
+1 DEAT Y
+1 FAMS @F8@
+0 @I25@ INDI
+1 NAME Spasoje /Adzic/
+2 GIVN Spasoje
+2 SURN Adzic
+1 SEX M
+1 _UID 162DBC05FA4C4F0D97CE470A9F7B64EBC5E9
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMS @F9@
+0 @I26@ INDI
+1 NAME Uros /Djurisic/
+2 GIVN Uros
+2 SURN Djurisic
+1 SEX M
+1 _UID 54CB43657A1C4D789FD73264E9D394BA380E
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMC @F10@
+0 @I27@ INDI
+1 NAME Lazar /Djurisic/
+2 GIVN Lazar
+2 SURN Djurisic
+1 SEX M
+1 _UID CFDF67E08AA34424942C5F3D53E63108580F
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMC @F10@
+0 @I28@ INDI
+1 NAME Borislav /Djurisic/
+2 GIVN Borislav
+2 SURN Djurisic
+1 SEX M
+1 _UID 2AE78AA2CFAA4B9198BB984ED48D57921522
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMS @F10@
+0 @I29@ INDI
+1 NAME Darko /Mitrovic/
+2 GIVN Darko
+2 SURN Mitrovic
+1 SEX M
+1 _UID 02250013E7AF4D5A9144B5E6CA2455C6F0EB
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMS @F11@
+0 @I30@ INDI
+1 NAME Dijana /Mitrovic/
+2 GIVN Dijana
+2 SURN Mitrovic
+1 SEX F
+1 _UID C6272675213042D6B56B20743C28FCEAEF47
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMC @F11@
+0 @I31@ INDI
+1 NAME Nina /Mitrovic/
+2 GIVN Nina
+2 SURN Mitrovic
+1 SEX F
+1 _UID 4F327B15439749C3B7A9D5E6693F492023E5
+1 CHAN
+2 DATE 19 AUG 2021
+1 FAMC @F11@
+0 @I32@ INDI
+1 NAME Boro /Vukotic/
+2 GIVN Boro
+2 SURN Vukotic
+1 SEX M
+1 _UID CDDABFA46BCF49C6BC5660D7F01162B7B630
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F12@
+0 @I33@ INDI
+1 NAME Hajdana /Vukotic/
+2 GIVN Hajdana
+2 SURN Vukotic
+1 SEX F
+1 _UID 4588294D082C4D8492D4BA6AF700EEE198BC
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F12@
+0 @I34@ INDI
+1 NAME Misko /Vukotic/
+2 GIVN Misko
+2 SURN Vukotic
+1 SEX M
+1 _UID 76314CF6F18345AA98E2A3583AD1622F5D44
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F12@
+0 @I35@ INDI
+1 NAME Marta //
+2 GIVN Marta
+1 SEX F
+1 _UID EF98A155296C40C4A5275AEEA3D332A577F4
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMS @F12@
+0 @I36@ INDI
+1 NAME Jelisavka //
+2 GIVN Jelisavka
+1 SEX F
+1 _UID F37D2EF097104C2CACD59A9947E0E761D036
+1 CHAN
+2 DATE 24 AUG 2021
+1 DEAT Y
+1 FAMS @F13@
+0 @I37@ INDI
+1 NAME Olga //
+2 GIVN Olga
+1 SEX F
+1 _UID C2FCC438DC1E4DEE96490668C09D476C4C1A
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMS @F14@
+0 @I38@ INDI
+1 NAME Filip /Vukotic/
+2 GIVN Filip
+2 SURN Vukotic
+1 SEX M
+1 _UID 4F84871C116E4F27AC6A9404E63A71C26C31
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F14@
+0 @I39@ INDI
+1 NAME Bosko /Vukotic/
+2 GIVN Bosko
+2 SURN Vukotic
+1 SEX M
+1 _UID B5B5F54E892D45D0BF8A1DEC646EA21E5CE8
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F14@
+0 @I40@ INDI
+1 NAME Maja /Vukotic/
+2 GIVN Maja
+2 SURN Vukotic
+1 SEX F
+1 _UID 11983364C1AC448B847F2824B891EA6967DE
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F14@
+0 @I41@ INDI
+1 NAME Radusa /Vukotic/
+2 GIVN Radusa
+2 SURN Vukotic
+1 SEX F
+1 _UID 9D7D0E23CC644FC6B6F4D6B71AAA414713B8
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F14@
+0 @I42@ INDI
+1 NAME Ika /Vukotic/
+2 GIVN Ika
+2 SURN Vukotic
+1 SEX F
+1 _UID CCF177563831430FBB4FBA14127094E91C09
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F14@
+0 @I43@ INDI
+1 NAME Julka /Vukotic/
+2 GIVN Julka
+2 SURN Vukotic
+1 SEX F
+1 _UID 03C8EDB7AD9A40C89CD5AB1D49097AA96C8D
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F14@
+0 @I44@ INDI
+1 NAME Vukosava /Perovic/
+2 GIVN Vukosava
+2 SURN Perovic
+1 SEX F
+1 _UID 0062BC8C9C6D480E8BB8D5C9DD8EE37FB71D
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F3@
+0 @I45@ INDI
+1 NAME Marta /Perovic/
+2 GIVN Marta
+2 SURN Perovic
+1 SEX F
+1 _UID 236697FBC63E421DA375BADDC871CD558810
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F3@
+0 @I46@ INDI
+1 NAME Nada /Perovic/
+2 GIVN Nada
+2 SURN Perovic
+1 SEX F
+1 _UID 4DB8D2896B304D2B93BEC5C0D344A0252547
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F3@
+0 @I47@ INDI
+1 NAME Branka /Perovic/
+2 GIVN Branka
+2 SURN Perovic
+1 SEX F
+1 _UID F1A44A88F9F94B089727597831AAC94F2E0F
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F3@
+0 @I48@ INDI
+1 NAME Stanka /Perovic/
+2 GIVN Stanka
+2 SURN Perovic
+1 SEX F
+1 _UID 9344E153E1C74669AAAEAE538CE18006AED5
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F3@
+0 @I49@ INDI
+1 NAME Milica /Perovic/
+2 GIVN Milica
+2 SURN Perovic
+1 SEX F
+1 _UID 506AA9F07D0A476D88CAC6B515B9C7D7C760
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F3@
+0 @I50@ INDI
+1 NAME Milorad /Perovic/
+2 GIVN Milorad
+2 SURN Perovic
+1 SEX M
+1 _UID 15CBB3D5D93F484B8746A977BEDD8DC7EFFF
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMS @F15@
+1 FAMC @F3@
+0 @I51@ INDI
+1 NAME Zorida /Mihailovic/
+2 GIVN Zorida
+2 SURN Mihailovic
+1 SEX F
+1 _UID 2693215B57C441F781990DBFEF5168677D49
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMS @F15@
+0 @I52@ INDI
+1 NAME Bojana /Perovic/
+2 GIVN Bojana
+2 SURN Perovic
+1 SEX F
+1 _UID 9239AB6E81D240F3B9874BFE04FADE8251F1
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F15@
+0 @I53@ INDI
+1 NAME Boro /Perovic/
+2 GIVN Boro
+2 SURN Perovic
+1 SEX M
+1 _UID F7B8952FC9594AFF8EBD83D3231B3DA49EA2
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F15@
+0 @I54@ INDI
+1 NAME Jovana /Perovic/
+2 GIVN Jovana
+2 SURN Perovic
+1 SEX F
+1 _UID 7BD8CA6DACD04F6B9E2115D63E7BD1665ABA
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F15@
+0 @I55@ INDI
+1 NAME Vesna /Vukotic/
+2 GIVN Vesna
+2 SURN Vukotic
+1 SEX F
+1 _UID 9501FD8F277B44DD86697C5549807904EB3C
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F13@
+0 @I56@ INDI
+1 NAME Bato /Vukotic/
+2 GIVN Bato
+2 SURN Vukotic
+1 SEX M
+1 _UID EDE9FB2B142243E189AAF2A6BBFDECE5AAC5
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F13@
+0 @I57@ INDI
+1 NAME Radonja /Vukotic/
+2 GIVN Radonja
+2 SURN Vukotic
+1 SEX M
+1 _UID 4AB282F216954C42B7D185D31511CDF26EEC
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F13@
+0 @I58@ INDI
+1 NAME Vanja /Vukotic/
+2 GIVN Vanja
+2 SURN Vukotic
+1 SEX M
+1 _UID 2057541D4ACA4A90AF1684EF2A9B57EC162C
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F13@
+0 @I59@ INDI
+1 NAME Zlatana /Vukotic/
+2 GIVN Zlatana
+2 SURN Vukotic
+1 SEX F
+1 _UID 995DC1174D1E4E38836A3690D2FECBCEDB5E
+1 CHAN
+2 DATE 24 AUG 2021
+1 FAMC @F13@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I4@
+1 CHIL @I5@
+0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I2@
+1 CHIL @I13@
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I7@
+1 CHIL @I44@
+1 CHIL @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I20@
+1 CHIL @I3@
+1 CHIL @I19@
+0 @F5@ FAM
+1 HUSB @I11@
+1 CHIL @I6@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+0 @F6@ FAM
+1 HUSB @I12@
+1 CHIL @I11@
+0 @F7@ FAM
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I10@
+0 @F8@ FAM
+1 HUSB @I24@
+1 WIFE @I23@
+1 CHIL @I20@
+0 @F9@ FAM
+1 HUSB @I25@
+1 CHIL @I21@
+0 @F10@ FAM
+1 HUSB @I28@
+1 WIFE @I19@
+1 CHIL @I26@
+1 CHIL @I27@
+0 @F11@ FAM
+1 HUSB @I29@
+1 WIFE @I13@
+1 CHIL @I30@
+1 CHIL @I31@
+1 MARR
+2 PLAC Budva, Montenegro
+0 @F12@ FAM
+1 HUSB @I18@
+1 WIFE @I35@
+1 CHIL @I32@
+1 CHIL @I33@
+1 CHIL @I34@
+0 @F13@ FAM
+1 HUSB @I15@
+1 WIFE @I36@
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+0 @F14@ FAM
+1 HUSB @I14@
+1 WIFE @I37@
+1 CHIL @I38@
+1 CHIL @I41@
+1 CHIL @I39@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I40@
+0 @F15@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I53@
+1 CHIL @I52@
+1 CHIL @I54@
+0 _EVDEF BIRT
+1 TYPE P
+1 TITL Birth
+1 ABBR Birth
+1 SENT [person] was born< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the birth of [person]< [Date]>< [PlaceDetails]>< [
+3 CONC Place]>.
+1 ROLE Doctor
+2 SENT [ThisPerson] delivered [person]< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF DEAT
+1 TYPE P
+1 TITL Death
+1 ABBR Death
+1 SENT [person] died< [Desc]>< [Date]>< [person:Age]>< [PlaceDetails]>< [Place
+2 CONC ]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the death of [person]< [Date]>< [PlaceDetails]>< [
+3 CONC Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF CHR
+1 TYPE P
+1 TITL Christen
+1 ABBR Chr
+1 SENT [person] was christened< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the christening of [person]< [Date]>< [PlaceDeta
+3 CONC ils]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF BURI
+1 TYPE P
+1 TITL Burial
+1 ABBR Burial
+1 SENT [person] was buried< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the burial of [person]< [Date]>< [PlaceDetails]>
+3 CONC < [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF CREM
+1 TYPE P
+1 TITL Cremation
+1 ABBR Cremation
+1 SENT [person] was cremated< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the cremation of [person]< [Date]>< [PlaceDetail
+3 CONC s]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF ADOP
+1 TYPE P
+1 TITL Adoption
+1 ABBR Adoption
+1 SENT [person] was adopted< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the adoption of [person]< [Date]>< [PlaceDetails
+3 CONC ]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF BAPM
+1 TYPE P
+1 TITL Baptism
+1 ABBR Baptism
+1 SENT [person] was baptized< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the baptism of [person]< [Date]>< [PlaceDetails]
+3 CONC >< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF BARM
+1 TYPE P
+1 TITL Bar Mitzvah
+1 ABBR Bar Mitzvah
+1 SENT [person] celebrated his bar mitzvah< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the bar mitzvah of [person]< [Date]>< [PlaceDeta
+3 CONC ils]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF BASM
+1 TYPE P
+1 TITL Bas Mitzvah
+1 ABBR Bas Mitzvah
+1 SENT [person] celebrated her bas mitzvah< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the bas mitzvah of [person]< [Date]>< [PlaceDeta
+3 CONC ils]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF BLES
+1 TYPE P
+1 TITL Blessing
+1 ABBR Blessing
+1 SENT [person] was blessed< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the blessing of [person]< [Date]>< [PlaceDetails
+3 CONC ]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF CHRA
+1 TYPE P
+1 TITL Christen (adult)
+1 ABBR Chr (adult)
+1 SENT [person] was christened< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the christening of [person]< [Date]>< [PlaceDeta
+3 CONC ils]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF CONF
+1 TYPE P
+1 TITL Confirmation
+1 ABBR Confirmation
+1 SENT [person] was confirmed< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the confirmation of [person]< [Date]>< [PlaceDet
+3 CONC ails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF FCOM
+1 TYPE P
+1 TITL First communion
+1 ABBR First comm
+1 SENT [person] received first communion< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the first communion of [person]< [Date]>< [Place
+3 CONC Details]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF ORDN
+1 TYPE P
+1 TITL Ordination
+1 ABBR Ordination
+1 SENT [person] was ordained< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the ordination of [person]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF NATU
+1 TYPE P
+1 TITL Naturalization
+1 ABBR Naturalization
+1 SENT [person] was naturalized< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the naturalization of [person]< [Date]>< [PlaceD
+3 CONC etails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF EMIG
+1 TYPE P
+1 TITL Emigration
+1 ABBR Emigration
+1 SENT [person] emigrated< [Date]>< from [Place:plain]>< [PlaceDetails]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the emigration of [person]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF IMMI
+1 TYPE P
+1 TITL Immigration
+1 ABBR Immigration
+1 SENT [person] immigrated< [Date]>< to [Place:plain]>< [PlaceDetails]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the immigration of [person]< [Date]>< [PlaceDeta
+3 CONC ils]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF CENS
+1 TYPE P
+1 TITL Census
+1 ABBR Census
+1 SENT [person] appeared in the census< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] appeared in the household of [person] in the census< [Date
+3 CONC ]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF PROB
+1 TYPE P
+1 TITL Probate
+1 ABBR Probate
+1 SENT [person] had [person:hisher] estate probated< [Date]>< [PlaceDetails]>< [
+2 CONC Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the probate of [person]< [Date]>< [PlaceDetails]
+3 CONC >< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF WILL
+1 TYPE P
+1 TITL Will
+1 ABBR Will
+1 SENT [person] signed a will< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the will of [person]< [Date]>< [PlaceDetails]>< [
+3 CONC Place]>.
+1 ROLE Heir
+2 SENT [ThisPerson] was named an heir in the will of [person]< [Date]>< [Place
+3 CONC Details]>< [Place]>.
+1 ROLE Executor
+2 SENT [ThisPerson] was named an executor for the will of [person]< [Date]>< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF GRAD
+1 TYPE P
+1 TITL Graduation
+1 ABBR Graduation
+1 SENT [person] graduated< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the graduation of [person]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF RETI
+1 TYPE P
+1 TITL Retirement
+1 ABBR Retirement
+1 SENT [person] retired< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the retirement of [person]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF DSCR
+1 TYPE P
+1 TITL Description
+1 ABBR Description
+1 SENT [person] was described as [Desc]< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the appearance of [person] as [Desc]< [Date]>< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF EDUC
+1 TYPE P
+1 TITL Education
+1 ABBR Education
+1 SENT [person] was educated < [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the education of [person]< [Date]>< [PlaceDetail
+3 CONC s]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF NATI
+1 TYPE P
+1 TITL Nationality
+1 ABBR Nationality
+1 SENT [person] was [Desc]< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the nationality of [person] as [Desc]< [Date]>< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF OCCU
+1 TYPE P
+1 TITL Occupation
+1 ABBR Occupation
+1 SENT [date] [person] was [Desc:A]< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the occupation of [person]< [Date]> as [Desc:A]< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF PROP
+1 TYPE P
+1 TITL Property
+1 ABBR Property
+1 SENT [person] owned [Desc]< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the property of [person] as [Desc:A]< [Date]>< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF RELI
+1 TYPE P
+1 TITL Religion
+1 ABBR Religion
+1 SENT [person] was [Desc]< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the religion of [person] as [Desc:A]< [Date]>< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF RESI
+1 TYPE P
+1 TITL Residence
+1 ABBR Residence
+1 SENT [person] lived< [Desc]>< [PlaceDetails]>< [Place]>< [Date]>.
+1 ROLE Witness
+2 SENT [ThisPerson] lived in the residence of [person] < [PlaceDetails]>< [Pla
+3 CONC ce]>< [Date]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF SSN
+1 TYPE P
+1 TITL Soc Sec No
+1 ABBR SSN
+1 SENT [person] had Social Security Number [Desc].
+1 PLAC N
+1 DATE N
+1 DESC Y
+0 _EVDEF BAPL
+1 TYPE P
+1 TITL LDS Baptism
+1 ABBR LDS Bapt
+1 SENT [person] was baptized into the LDS Church< [Date]>< [PlaceDetails]>< [P
+2 CONC lace]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the baptism of [person] into the LDS Church< [Da
+3 CONC te]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF ENDL
+1 TYPE P
+1 TITL LDS Endowment
+1 ABBR LDS Endow
+1 SENT [person] was endowed< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the endowment of [person]< [Date]>< [PlaceDetail
+3 CONC s]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF SLGC
+1 TYPE P
+1 TITL LDS Seal to parents
+1 ABBR LDS SealPar
+1 SENT [person] was sealed to [person:hisher] parents< [Date]>< [PlaceDetails]
+2 CONC >< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the sealed to parents of [person]< [Date]>< [Pla
+3 CONC ceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF AFN
+1 TYPE P
+1 TITL Ancestral File Number
+1 ABBR AFN
+1 SENT [person] has Ancestral File Number [Desc].
+1 PLAC N
+1 DATE N
+1 DESC Y
+0 _EVDEF REFN
+1 TYPE P
+1 TITL Reference No
+1 ABBR Ref #
+1 SENT [person] has reference number [Desc].
+1 PLAC N
+1 DATE N
+1 DESC Y
+0 _EVDEF CAST
+1 TYPE P
+1 TITL Caste
+1 ABBR Caste
+1 SENT [person] was associated with [Desc]< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the associated with [Desc] of [person]< [Date]>< [
+3 CONC PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF TITL
+1 TYPE P
+1 TITL Title (Nobility)
+1 ABBR Title
+1 SENT [person] held the title of [Desc]< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF CONL
+1 TYPE P
+1 TITL LDS Confirmation
+1 ABBR LDS Conf
+1 SENT [person] was confirmed a member of the LDS Church< [Date]>< [PlaceDetai
+2 CONC ls]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the confirmation of [person] as a member of the L
+3 CONC DS Church< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF WAC
+1 TYPE P
+1 TITL LDS Initiatory
+1 ABBR LDS Init
+1 SENT [person] received LDS initiatory< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the LDS initiatory of [person]< [Date]>< [PlaceD
+3 CONC etails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF MARR
+1 TYPE F
+1 TITL Marriage
+1 ABBR Marriage
+1 SENT [couple] <#Couple#was|were> married< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the marriage of [couple]< [Date]>< [PlaceDetails
+3 CONC ]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF ANUL
+1 TYPE F
+1 TITL Annulment
+1 ABBR Annulment
+1 SENT [couple] had their marriage annulled< [Date]>< [PlaceDetails]>< [Place]
+2 CONC >.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the annulment of the marriage of [couple]< [Date
+3 CONC ]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF DIV
+1 TYPE F
+1 TITL Divorce
+1 ABBR Divorce
+1 SENT [couple] <#Couple#was|were> divorced< [Date]>< [PlaceDetails]>< [Place]
+2 CONC >.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the divorce of [couple]< [Date]>< [PlaceDetails]
+3 CONC >< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF DIVF
+1 TYPE F
+1 TITL Divorce filed
+1 ABBR Div. filed
+1 SENT [couple] filed for divorce< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the divorce filing of [couple]< [Date]>< [PlaceD
+3 CONC etails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF ENGA
+1 TYPE F
+1 TITL Engagement
+1 ABBR Engagement
+1 SENT [couple] <#Couple#was|were> engaged< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the engagement of [couple]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF MARB
+1 TYPE F
+1 TITL Marriage Bann
+1 ABBR Marr Bann
+1 SENT [couple] had marriage banns published< [Date]>< [PlaceDetails]>< [Place
+2 CONC ]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the publishing of the marriage banns of [couple]
+3 CONC <[Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF MARC
+1 TYPE F
+1 TITL Marriage Contract
+1 ABBR Marr Contract
+1 SENT [couple] signed a marriage contract< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the marriage contract of [couple]< [Date]>< [Pla
+3 CONC ceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF MARL
+1 TYPE F
+1 TITL Marriage License
+1 ABBR Marr Lic
+1 SENT [couple] obtained a marriage license< [Date]>< [PlaceDetails]>< [Place]
+2 CONC >.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the obtaining of the marriage license by [couple
+3 CONC ]< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF MARS
+1 TYPE F
+1 TITL Marriage Settlement
+1 ABBR Marr Settlement
+1 SENT [couple] obtained a marriage settlement< [Date]>< [PlaceDetails]>< [Pla
+2 CONC ce]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the marriage settlement of [couple]< [Date]>< [P
+3 CONC laceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF SLGS
+1 TYPE F
+1 TITL LDS Seal to spouse
+1 ABBR LDS SealSp
+1 SENT [couple] were sealed together< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the sealing of [couple]< [Date]>< [PlaceDetails]
+3 CONC >< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF RESI
+1 TYPE F
+1 TITL Residence (family)
+1 ABBR Residence (fam)
+1 SENT [couple] lived < [Desc]>< [PlaceDetails]>< [Place]>< [Date]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF CENS
+1 TYPE F
+1 TITL Census (family)
+1 ABBR Census (fam)
+1 SENT [couple] appeared in the census< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] appeared in the census in the household of [couple]< [Date
+3 CONC ]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF Degree
+1 TYPE P
+1 TITL Degree
+1 ABBR Degree
+1 SENT [person] received a< [desc]> degree< [Date]>< [PlaceDetails]>< [Place]>
+2 CONC .
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the degree of [person]< [Date]>< [PlaceDetails]>
+3 CONC < [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF Military
+1 TYPE P
+1 TITL Military
+1 ABBR Military
+1 SENT [person] served in the military< [Desc]>< [Date]>< [PlaceDetails]>< [Pl
+2 CONC ace]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the military service of [person]< [Date]>< [Plac
+3 CONC eDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF Mission
+1 TYPE P
+1 TITL Mission
+1 ABBR Mission
+1 SENT [person] served a mission< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the mission of [person]< [Date]>< [PlaceDetails]
+3 CONC >< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF Stillborn
+1 TYPE P
+1 TITL Stillborn
+1 ABBR Stillborn
+1 SENT [person] was stillborn< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the stillbirth of [person]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF Illness
+1 TYPE P
+1 TITL Illness
+1 ABBR Illness
+1 SENT [person] was ill< with [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the illness of [person] with [Desc]< [Date]>< [P
+3 CONC laceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF Living
+1 TYPE P
+1 TITL Living
+1 ABBR Living
+1 SENT [person] was living< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF Elected
+1 TYPE P
+1 TITL Election
+1 ABBR Elected
+1 SENT [person] was elected< as [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the election of [person] as [Desc]< [Date]>< [Pl
+3 CONC aceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF Excomm
+1 TYPE P
+1 TITL Excommunication
+1 ABBR Excomm
+1 SENT [person] was excommunicated< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the excommunication of [person]< [Date]>< [Place
+3 CONC Details]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF Namesake
+1 TYPE P
+1 TITL Namesake
+1 ABBR Namesake
+1 SENT [person] was named after [Desc]< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 _EVDEF Separation
+1 TYPE F
+1 TITL Separation
+1 ABBR Separation
+1 SENT [couple] were separated< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [ThisPerson] witnessed the separation of [couple]< [Date]>< [PlaceDetai
+3 CONC ls]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC N
+0 _EVDEF Alt. Name
+1 TYPE P
+1 TITL Alternate name
+1 ABBR Alt. Name
+1 SENT [person] was also known as [Desc]< [Date]>.
+1 PLAC N
+1 DATE Y
+1 DESC N
+0 _EVDEF _DNA
+1 TYPE P
+1 TITL DNA test
+1 ABBR DNA
+1 SENT [person] had a DNA test performed< [Date]>.
+1 PLAC N
+1 DATE Y
+1 DESC N
+0 _EVDEF Misc
+1 TYPE P
+1 TITL Miscellaneous
+1 ABBR Misc
+1 SENT [person]< [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
+1 ROLE Witness
+2 SENT [person]< [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
+1 PLAC Y
+1 DATE Y
+1 DESC Y
+0 TRLR
